@@ -41,7 +41,7 @@ andrew = User('Andrew Cavallaro', 'andrew.cavallarojr@gmail.com', 29)
 # Accessing the properties of the Object #
 andrew.has_birthday()
 
-print(andrew.name, andrew.email, andrew.age)
+print(andrew.name, andrew.email, andrew.age, andrew)
 
 # Accessing the functions inside of the class #
 print(andrew.greeting())
