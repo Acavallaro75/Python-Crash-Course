@@ -1,4 +1,7 @@
-# A List is a collection of data types which is ordered and changeable. Allows duplicate members. #
+'''
+    - A List is a collection of data types which is ordered and changeable
+    - Lists allow for duplicate members
+'''
 
 # Creating a List #
 numbers = [1, 2, 3, 4, 5]

@@ -1,4 +1,7 @@
-# Strings in python are surrounded by either single or double quotation marks. Let's look at string formatting and some string methods #
+'''
+    - Strings in Python are surrounded by either single or double quotation marks
+    - Let's look at String formatting and some String methods
+'''
 
 letter = 'd'
 name = 'Andrew Cavallaro'
@@ -7,14 +10,13 @@ age = 29
 # Concatenation #
 print('Hello, my name is ' + name + ' and I am ' + str(age) + ' years old.')
 
-# String Formatting #
-
 # Positional Arguments #
 print('Hello, my name is {name} and I am {age} years old.'.format(
     name=name, age=age))
 
 # F-Strings
 print(f'Hello, my name is {name} and I am {age} years old.')
+
 
 # String Methods #
 
