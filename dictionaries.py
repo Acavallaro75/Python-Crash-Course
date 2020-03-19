@@ -8,7 +8,7 @@ person = {
 }
 
 # Creating a Dictionary using a constructor #
-anotherPerson = dict(firstName = 'AnnMarie', lastName = 'Medico', age = 24)
+anotherPerson = dict(firstName='AnnMarie', lastName='Medico', age=24)
 
 # To get a value from a Dictionary #
 print(person['firstName'])

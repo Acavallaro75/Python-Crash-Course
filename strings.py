@@ -10,7 +10,8 @@ print('Hello, my name is ' + name + ' and I am ' + str(age) + ' years old.')
 # String Formatting #
 
 # Positional Arguments #
-print('Hello, my name is {name} and I am {age} years old.'.format(name = name, age = age))
+print('Hello, my name is {name} and I am {age} years old.'.format(
+    name=name, age=age))
 
 # F-Strings
 print(f'Hello, my name is {name} and I am {age} years old.')

@@ -43,5 +43,5 @@ fruits.sort()
 print(fruits)
 
 # Sort a List alphabetically in reverse #
-fruits.sort(reverse = True)
+fruits.sort(reverse=True)
 print(fruits)
