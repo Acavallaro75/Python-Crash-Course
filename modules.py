@@ -1,22 +1,18 @@
-'''
+"""
     - A module is basically a file containing a set of functions to include in your application
     - There are core Python modules, modules you can install using the pip package manager (including Django)
-'''
+"""
 
 # Import a core Python module #
 import datetime
 from datetime import date
-
 # Import a core Python module #
-import time
 from time import time
 
 # Import a pip module #
-import camelcase
 from camelcase import CamelCase
 
 # Import a custom module such as the one in the validator.py file #
-import validator
 from validator import validate_email
 
 # Using the imported core module #

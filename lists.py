@@ -1,7 +1,7 @@
-'''
+"""
     - A List is a collection of data types which is ordered and changeable
     - Lists allow for duplicate members
-'''
+"""
 
 # Creating a List #
 numbers = [1, 2, 3, 4, 5]
@@ -19,7 +19,7 @@ print(fruits[2])
 print(len(fruits))
 
 # Add to the end of a List #
-fruits.append('Mangos')
+fruits.append('Mango')
 print(fruits)
 
 # Change the value of an item in a List #

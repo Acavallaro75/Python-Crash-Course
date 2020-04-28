@@ -1,7 +1,7 @@
-'''
-    - JSON is commonly used with data API'S
+"""
+    - JSON is commonly used with data API
     - Here how we can parse JSON into a Python Dictionary
-'''
+"""
 
 # Import the JSON core module #
 import json

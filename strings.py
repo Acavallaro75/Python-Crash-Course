@@ -1,7 +1,7 @@
-'''
+"""
     - Strings in Python are surrounded by either single or double quotation marks
     - Let's look at String formatting and some String methods
-'''
+"""
 
 letter = 'd'
 name = 'Andrew Cavallaro'

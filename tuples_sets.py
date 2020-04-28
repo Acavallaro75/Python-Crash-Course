@@ -1,7 +1,7 @@
-''' 
+"""
     - A Tuple is a collection which is ordered and unchangeable
     - Tuples allow for duplicate members
-'''
+"""
 
 # Creating a Tuple #
 numbers = (1, 2, 3, 4, 5)
@@ -19,16 +19,15 @@ print(numbers, moreNumbers, type(evenMoreNumbers))
 print(fruits[1])
 
 # How to delete a Tuple #
-del(evenMoreNumbers)
+del evenMoreNumbers
 
 # Get the length of a Tuple #
 print(len(fruits))
 
-
-'''
+"""
     - A Set is a collection which is unordered and un-indexed
     - No duplicate members are allowed in a Set
-'''
+"""
 
 # Creating a Set #
 vegetables = {'Carrots', 'Broccoli', 'Cauliflower'}

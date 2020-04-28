@@ -11,12 +11,12 @@ print('Opening Mode: ', myFile.mode)
 # Writing to a file #
 myFile.write('I love Python')
 myFile.write(' and JavaScript.')
-myFile.close
+myFile.close()
 
 # Append to a file #
 myFile = open('test.txt', 'a')
 myFile.write(' I also like Java.')
-myFile.close
+myFile.close()
 
 # Reading from a file #
 myFile = open('test.txt', 'r+')
